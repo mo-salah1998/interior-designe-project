@@ -9,12 +9,12 @@ import Services from "./views/Services";
 function App() {
   return (
     <>
-      {/* <Hero /> */}
-      {/* <Services /> */}
-      {/* <Products /> */}
-      {/* <Reference /> */}
-      {/* <Care /> */}
-      {/* <Footer /> */}
+      <Hero />
+      <Services />
+       <Products />
+       <Reference />
+       <Care />
+       <Footer />
     </>
   );
 }
